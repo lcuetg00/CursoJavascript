@@ -12,7 +12,7 @@ console.log(p1);
 
 //Persona numero 2
 const [ ,p2 ] = personas;
-console.log(p2);
+console.log(p2);cd 
 
 //Persona numero 1
 const [ ,,p3 ] = personas;
